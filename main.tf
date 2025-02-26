@@ -67,4 +67,4 @@ resource "aws_instance" "blog" {
     security_group_id = aws_security_group.blog.id
 
   }
-}
+
